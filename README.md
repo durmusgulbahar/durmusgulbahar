@@ -23,5 +23,6 @@
 <br />
 
 [![Docker](https://img.shields.io/badge/-Docker-black?style=flat&logo=docker&link=https://github.com/BRdhanani)](https://github.com/durmusgulbahar) 
-[![Python](https://img.shields.io/badge/-Python-green?style=flat&logo=python&link=https://github.com/BRdhanani)](https://github.com/durmusgulbahar)
+[![Python](https://img.shields.io/badge/-Python-black?style=flat&logo=python&link=https://github.com/BRdhanani)](https://github.com/durmusgulbahar)
+[![Java](https://img.shields.io/badge/-Java-black?style=flat&logo=java&link=https://github.com/BRdhanani)](https://github.com/durmusgulbahar)
 
