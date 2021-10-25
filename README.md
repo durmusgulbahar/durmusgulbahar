@@ -4,7 +4,7 @@
 
 ### Portfolio: https://github.com/durmusgulbahar
 
-- 👨‍💻  I’m currently a student at Akdeniz University, Antalya/Turkey
+- 👨‍💻  I’m currently a student at Akdeniz University, Antalya/Turkey.
 - 📱   I am interesed in Mobile Development with Flutter and Dart.
 
 **Languages and Tools:**  
