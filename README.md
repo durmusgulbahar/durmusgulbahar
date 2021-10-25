@@ -5,7 +5,7 @@
 ### Portfolio: https://github.com/durmusgulbahar
 
 - 🏫 I’m currently a student at Akdeniz University, Antalya/Turkey
-- 👯 I’m looking to collaborate on Machine Learning Projects as well as any other projects.
+- 👯 I interesed in Mobile Development with Flutter and Dart.
 
 **Languages and Tools:**  
 
