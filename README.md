@@ -4,8 +4,6 @@
 
 ### Portfolio: https://github.com/durmusgulbahar
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=roshanlam&label=Views&color=blue&style=plastic" alt="roshanlam" /> </p>
-
 - 🏫 I’m currently a student at Akdeniz University, Antalya/Turkey
 - 👯 I’m looking to collaborate on Machine Learning Projects as well as any other projects.
 
