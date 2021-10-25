@@ -6,6 +6,7 @@
 
 - 👨‍💻  I’m currently a student at Akdeniz University, Antalya/Turkey.
 - 📱   I am interesed in Mobile Development with Flutter and Dart.
+- ✉️  To reach, e-mail me [Durmuş Gülbahar](mailto:durmus.gulbahar@outlook.com?subject=[GitHub]%20Source%20Han%20Sans)
 
 **Languages and Tools:**  
 
@@ -24,7 +25,5 @@
 <div align="center">
 <a href="https://www.linkedin.com/in/durmusgulbahar" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 <a href="https://www.instagram.com/durmusgulbaharr" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Instagram"></a>
-
 </div>
 
-[Durmuş Gülbahar](mailto:durmus.gulbahar@outlook.com?subject=[GitHub]%20Source%20Han%20Sans)
