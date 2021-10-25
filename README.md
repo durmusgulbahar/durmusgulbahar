@@ -4,28 +4,20 @@
 
 ### Portfolio: https://github.com/durmusgulbahar
 
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=roshanlam&label=Views&color=blue&style=plastic" alt="roshanlam" /> </p>
 
-<a href="https://www.linkedin.com/in/durmusgulbahar/">
-  <img align="left" alt="Durmuş Gülbahar" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-</a>
+- 🏫 I’m currently a college student (freshmen) and am doing computer science as my major.
+- 👯 I’m looking to collaborate on Machine Learning Projects as well as any other projects.
+- 💬 Ask me about Technology, Mathematics, Physics & Biology 
+- 📫 How to reach me: Add Me On Snapchat: nepalidj
+- ⚡ Fun facts: I am a Big Michael Jackson Fan | I love to dance | I can dance Like MJ | I first learned to code when I was 8 years old
 
-<a href="https://www.instagram.com/durmusgulbaharr/">
-  <img align="left" alt="Durmuş Gülbahar" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
-</a>
+**Languages and Tools:**  
 
-<br />
-<br />
-
-  <img align="right" alt="GIF" src=/>
-  
-### 👨‍💻 Languages and Tools
-
-<br />
-
-[![Docker](https://img.shields.io/badge/-Docker-black?style=flat&logo=docker&link=https://github.com/durmusgulbahar)](https://github.com/durmusgulbahar) 
-[![Python](https://img.shields.io/badge/-Python-black?style=flat&logo=python&link=https://github.com/durmusgulbahar)](https://github.com/durmusgulbahar)
-[![Java](https://img.shields.io/badge/-Java-black?style=flat&logo=java&link=https://github.com/durmusgulbahar)](https://github.com/durmusgulbahar)
-[![Flutter](https://img.shields.io/badge/-Flutter-black?style=flat&logo=flutter&link=https://github.com/durmusgulbahar)](https://github.com/durmusgulbahar)
-[![Dart](https://img.shields.io/badge/-Dart-black?style=flat&logo=dart&link=https://github.com/durmusgulbahar)](https://github.com/durmusgulbahar)
-[![Docker](https://img.shields.io/badge/-Docker-black?style=flat&logo=docker&link=https://github.com/durmusgulbahar)](https://github.com/durmusgulbahar)
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/dart/dart.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png"></code>
 
