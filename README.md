@@ -16,7 +16,7 @@
 <br />
 <br />
 
-  <img align="right" alt="GIF" src=<iframe src="https://giphy.com/embed/l0HlNaQ6gWfllcjDO" width="480" height="360" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/90s-80s-illustration-l0HlNaQ6gWfllcjDO">via GIPHY</a></p>/>
+  <img align="right" alt="GIF" src=/>
   
 ### 👨‍💻 Languages and Tools
 
@@ -27,3 +27,4 @@
 [![Java](https://img.shields.io/badge/-Java-black?style=flat&logo=java&link=https://github.com/durmusgulbahar)](https://github.com/durmusgulbahar)
 [![Flutter](https://img.shields.io/badge/-Flutter-black?style=flat&logo=flutter&link=https://github.com/durmusgulbahar)](https://github.com/durmusgulbahar)
 [![Dart](https://img.shields.io/badge/-Dart-black?style=flat&logo=dart&link=https://github.com/durmusgulbahar)](https://github.com/durmusgulbahar)
+[![Vscode](https://img.shields.io/badge/-Vscode-black?style=flat&logo=vscode&link=https://github.com/durmusgulbahar)](https://github.com/durmusgulbahar)
