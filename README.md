@@ -1,12 +1,12 @@
 ## Welcome ! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px">
 
-### Hello! I'm Durmuş Gülbahar from Turkey.
-
-### Portfolio: https://github.com/durmusgulbahar
+### Hello! I'm Durmuş Gülbahar,
 
 - 👨‍💻  I’m currently a student at Akdeniz University, Antalya/Turkey.
 - 📱   I am interesed in Mobile Development with Flutter and Dart.
 - ✉️  To reach, e-mail me [Durmuş Gülbahar](mailto:durmus.gulbahar@outlook.com?subject=[GitHub]%20Source%20Han%20Sans)
+
+### Portfolio: https://github.com/durmusgulbahar
 
 **Languages and Tools:**  
 
