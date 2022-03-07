@@ -3,7 +3,7 @@
 ### Hello! I'm Durmuş Gülbahar,
 
 - 👨‍💻  I’m currently a student at Akdeniz University, Antalya/Turkey.
-- 📱   I am interesed in Mobile Development with Flutter.
+- 📱   I am interesed in Mobile Development with Flutter and Blockchain.
 - ✉️  Reach me via e-mail 
 
 ### Portfolio: https://github.com/durmusgulbahar
