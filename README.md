@@ -1,4 +1,4 @@
-## Welcome ! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px">
+## Welcome ! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="12px">
 
 ### Hello! I'm Durmuş Gülbahar,
 
