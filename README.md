@@ -7,7 +7,7 @@
 - 📱  I am interesed in Blockchain Development.
 - ✉️  Reach me via e-mail 
 
-### Portfolio: https://github.com/durmusgulbahar
+
 
 **Languages and Tools:**  
 
