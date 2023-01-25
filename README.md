@@ -14,10 +14,6 @@
 
 ### ⭐ GitHub Stats
 
- <p> 
-    <img src="https://github-readme-stats.vercel.app/api?username=durmusgulbahar&count_private=true&show_icons=true&theme=default&line" alt="Durmuş Gülbahar" width="420"/> 
- </p>
-
 <div align="center">
 <a href="https://www.linkedin.com/in/durmusgulbahar" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
  <a href="https://www.twitter.com/crypthegreat" target="_blank"><img src="https://img.shields.io/badge/Twitter-%230077B5.svg?&style=flat-square&logo=twitter&logoColor=white" alt="Twitter"></a>
