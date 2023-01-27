@@ -47,3 +47,9 @@
 [![Mail](https://img.shields.io/badge/Mail-blue?logo=gmail&logoColor=white)](mailto:durmusgulbahar@outlook.com)
  
 </div>
+
+<br>
+
+<p align=center>
+    <img src="https://github.com/durmusgulbahar/durmusgulbahar/blob/main/eth.gif" height=300 width=300/>
+</p>
