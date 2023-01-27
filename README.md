@@ -40,16 +40,17 @@
 
 ## <b>Let's Connect!</b>
 
+<br>
 <div align='center'>
- 
-[![Twitter](https://img.shields.io/badge/Twitter-blue?logo=twitter)](https://www.twitter.com/crypthegreat)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://www.linkedin.com/in/durmusgulbahar/)
-[![Mail](https://img.shields.io/badge/Mail-blue?logo=gmail&logoColor=white)](mailto:durmusgulbahar@outlook.com)
+
+[![Twitter](https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter)](https://www.twitter.com/crypthegreat)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/durmusgulbahar/)
+[![Mail](https://img.shields.io/badge/Mail-blue?style=for-the-badge&logo=gmail&logoColor=white)](mailto:durmusgulbahar@outlook.com)
  
 </div>
 
 <br>
 
 <p align=center>
-    <img src="https://github.com/durmusgulbahar/durmusgulbahar/blob/main/eth.gif" height=300 width=300/>
+    <img src="https://github.com/durmusgulbahar/durmusgulbahar/blob/main/eth.gif" height=350 width=350 />
 </p>
