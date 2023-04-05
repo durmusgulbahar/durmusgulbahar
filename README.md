@@ -12,6 +12,7 @@
 - **Blockchain Development**:
 
    ![Solidity](https://img.shields.io/badge/Solidity-black?style=for-the-badge&logo=solidity&logoColor=white)
+   ![Rust](https://img.shields.io/badge/Rust-black?style=for-the-badge&logo=rust&logoColor=white)
     
     
 - **Frameworks**:
