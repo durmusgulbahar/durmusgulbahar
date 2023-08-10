@@ -27,7 +27,8 @@
     ![TypeScript](https://img.shields.io/badge/TypeScript-blue?style=for-the-badge&logo=typescript&logoColor=white)
     ![HTML](https://img.shields.io/badge/HTML-black?style=for-the-badge&logo=html&logoColor=white)
     
-
+- **Back-end Development**;
+    ![Nodejs](https://img.shields.io/badge/Nodejs-yellow?style=for-the-badge&logo=nodejs&logoColor=white)
 
 </p>
 
