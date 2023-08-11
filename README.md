@@ -1,8 +1,7 @@
 <h1 align= center>Hello! I'm Durmuş </h1>
 
 - 👨‍💻  Senior student at Akdeniz University, Antalya/Turkey.
-- <a href="https://emoji.gg/emoji/7082-website"><img src="https://cdn3.emoji.gg/emojis/5819-eth.png" width="20px" height="20px" alt="ETH"></a> I'm interesed in Web Development.
-- 
+- <a href="https://emoji.gg/emoji/7082-website"><img src="https://cdn3.emoji.gg/emojis/7081-website" width="20px" height="20px" alt="ETH"></a> I'm interesed in Web Development.
 - 🧡  I am the founder of Akdeniz Blockchain Community.
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skills</b>
