@@ -1,7 +1,7 @@
 <h1 align= center>Hello! I'm Durmuş </h1>
 
 - 👨‍💻  Senior student at Akdeniz University, Antalya/Turkey.
-- <a href="https://emoji.gg/emoji/7081-website"><img src="https://cdn3.emoji.gg/emojis/7081-website.png" width="16px" height="16px" alt="Website"></a> Working on full-stack we development.
+- <a href="https://emoji.gg/emoji/7081-website"><img src="https://cdn3.emoji.gg/emojis/7081-website.png" width="16px" height="16px" alt="Website"></a> Working on full-stack web development.
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skills</b>
 
