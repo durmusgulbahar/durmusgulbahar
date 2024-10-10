@@ -46,7 +46,6 @@
 <br>
 <div align='center'>
 
-[![Twitter](https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter)](https://www.twitter.com/crypthegreat)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/durmusgulbahar/)
 [![Mail](https://img.shields.io/badge/Mail-blue?style=for-the-badge&logo=gmail&logoColor=white)](mailto:durmusgulbahar@outlook.com)
  
